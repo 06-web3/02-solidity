@@ -1,0 +1,16 @@
+{
+  "name": "02-solidity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "format": "npx prettier --write '**/*.sol'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "prettier-plugin-solidity": "^1.4.2"
+  }
+}
