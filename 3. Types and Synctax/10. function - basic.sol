@@ -1,14 +1,14 @@
-// SPDX-License-Identifier: MIT 
+// SPDX-License-Identifier: MIT
 pragma solidity 0.8.28;
 
-contract FunctionTypes {
+contract FunctionType {
     uint _value;
 
     constructor(uint value) {
         _value = value;
     }
 
-    function getValue() external view returns (uint){
+    function getValue() external view returns (uint) {
         return _value;
     }
 
