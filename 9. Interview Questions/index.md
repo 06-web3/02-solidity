@@ -14,3 +14,5 @@
     uint[] storageArr = [2, 9, 3, 8];
     delete storageArr[2]
 ```
+
+7. Compare DevNet, TestNet and MainNet

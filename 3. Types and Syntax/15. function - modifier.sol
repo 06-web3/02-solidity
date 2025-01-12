@@ -8,7 +8,7 @@ pragma solidity 0.8.28;
  * - Often used to add preconditions
  */
 
-contract ModifierType {
+contract FunctionModifier {
     address public owner;
 
     constructor() {
